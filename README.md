@@ -23,6 +23,7 @@
 ## Types of Network Monitoring Devices
 
 **English:** Devices/tools used to monitor performance, availability, and security of a network.
+
 **Urdu:** Monitoring devices network ki health aur security check karte hain.
 
 ## Types:
@@ -40,6 +41,7 @@ Firewalls with Monitoring → Some firewalls include monitoring & logging.
 ## Decision State
 
 **English:** Decision state refers to the condition of a network device when it must decide how to process or forward data packets (e.g., routing, switching, or dropping).
+
 **Urdu:** Decision state wo halat hoti hai jab device (router/switch) decide karta hai k data packet ko kahan bhejna hai, block karna hai ya drop karna hai.
 
 **Example:**
@@ -51,6 +53,7 @@ Firewall deciding allow/deny rule.
 ## Device Failure Modes
 
 **English:** Failure modes describe how a device behaves when it fails.
+
 **Urdu:** Failure modes ka matlab hai ek device fail hone par kis tarah behave karega.
 
 ## Types:
@@ -68,6 +71,7 @@ Firewall deciding allow/deny rule.
 **Example:** Firewall fail → no traffic passes.
 
 **Failover Mode** → Backup device automatically takes over.
+
 **Urdu:** Agar primary device down ho jaye to backup turant start ho jata hai.
 
 **Degraded Mode** → Device works but with reduced performance.
