@@ -3,21 +3,22 @@
 ## Network Devices
 
 **English:** Network devices are hardware components that connect, manage, and secure data communication in a network.
+
 **Urdu:** Network devices wo hardware hote hain jo data ko network ke andar connect aur manage karte hain.
 
 ## Common Devices:
 
-Router → Connects different networks (Internet ↔ LAN).
+**Router** → Connects different networks (Internet ↔ LAN).
 
-Switch → Connects devices within a LAN.
+**Switch** → Connects devices within a LAN.
 
-Hub → Simple device, broadcasts data to all.
+**Hub** → Simple device, broadcasts data to all.
 
-Firewall → Protects network by filtering traffic.
+**Firewall** → Protects network by filtering traffic.
 
-Access Point → Provides wireless connectivity.
+**Access Point** → Provides wireless connectivity.
 
-Gateway → Connects networks with different protocols.
+**Gateway** → Connects networks with different protocols.
 
 ## Types of Network Monitoring Devices
 
